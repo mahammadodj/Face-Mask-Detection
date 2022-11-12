@@ -31,7 +31,7 @@ any person.
 Overall, 1143 images for training and 286 images for validation were used. Transfer Learning (InceptionV3) is used in this project to get the best results with limited the dataset.
 ## Project Goal
 This complete poject is made as a part of Data Science Internship at [iNeuron.ai](https://internship.ineuron.ai/).
-## Techical Aspects
+## Technical Aspects
 
 • 	𝐃𝐚𝐭𝐚 𝐏𝐫𝐞𝐩𝐚𝐫𝐚𝐭𝐢𝐨𝐧 : This consists of downloading the dataset from [Flickr-Faces-HQ (FFHQ)(https://github.com/NVlabs/ffhq-dataset), Data Visualization and Data Preprocessing. Using Image Data Generator we scaled, shuffled, inserted target size as 150x150, and chose appropriate class mode (binary) with the batch size of 32 for training and validation data. 
 
