@@ -16,7 +16,7 @@
 
 • Overview of Mask Wear Detector :
 
-![link1](https://im5.ezgif.com/tmp/ezgif-5-9da69c3642.gif)
+![link1](https://im5.ezgif.com/tmp/ezgif-5-5e5bee9321.gif)
 
 ## Overview
 
