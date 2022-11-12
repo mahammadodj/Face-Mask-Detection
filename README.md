@@ -16,6 +16,8 @@
 
 • Overview of Mask Wear Detector :
 
+![link1](https://im5.ezgif.com/tmp/ezgif-5-9da69c3642.gif)
+
 ## Overview
 
 COVID-19 mask detector could potentially be used to help ensure your safety and the
