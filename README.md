@@ -22,8 +22,8 @@ If you find a bug (the website couldn't handle the query and / or gave undesired
 If you'd like to request a new function, feel free to do so by opening an issue here. Please include sample queries and their corresponding results.
 
 ## Used Technologies
-![Logo1](https://www.vnurture.in/wp-content/uploads/2021/06/python.png)
-![Logo2](https://miro.medium.com/max/1400/1*S8Il5ethl3YFh0M9XKVz-A.png)
+![Logo1](https://opencv.org/wp-content/uploads/2021/02/1_HfZmZayUqnYioPC9qTfd4A.png)
+
 ![Logo3](https://static.javatpoint.com/tutorial/tensorflow/images/tensorflow-tutorial.png)
 
 ## Appendix
