@@ -1,4 +1,3 @@
-
 # Mask Wear Detector
 ## Overview
 
@@ -15,3 +14,15 @@ any person.
 Overall, 1143 images for training and 286 images for validation were used. Transfer Learning (InceptionV3) is used in this project to get the best results with limited the dataset.
 ## Project Goal
 This complete poject is made as a part of Data Science Internship at [iNeuron.ai](https://internship.ineuron.ai/).
+## Feature Request
+
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly email me (mahammad.ojagzada@outlook.com) by including your search query and the expected result.
+
+If you'd like to request a new function, feel free to do so by opening an issue here. Please include sample queries and their corresponding results.
+
+## Author
+ [Mahammad Ojagzada](https://www.linkedin.com/in/mahammed-ojagzada/)
+
+ ## Feedback
+
+If you have any feedback, please reach out to me at mahammad.ojagzada@outlook.com.
