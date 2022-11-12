@@ -55,7 +55,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 ## Appendix
 Link for video regarding to the explanation of the project :  
-https://drive.google.com/file/d/1PkUzDJSgya7YWwuW7OVA7Rc0CnZ9oEJ5/view
+https://drive.google.com/file/d/1PJjjtYs4YO_-XqkUtXAT9Eb5XGx90flY/view?usp=sharing
 
 Link for App Documentation :    
 https://github.com/mahammadodj/iNeuron-Internship-Project/tree/master/Documents
