@@ -16,7 +16,7 @@
 
 • Overview of Mask Wear Detector :
 
-![link1](https://media.giphy.com/media/J3slYzPr8Ijd9CRTzH/giphy-downsized-large.gif)
+![link1](https://media.giphy.com/media/ig4ivzODy44L24V6Ro/giphy-downsized-large.gif)
 
 ## Overview
 
